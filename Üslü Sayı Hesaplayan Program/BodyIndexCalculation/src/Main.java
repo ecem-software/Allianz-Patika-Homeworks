@@ -10,9 +10,5 @@ public class Main {
         weight=scanner.nextDouble();
         BodyWeightIndex=weight/(height*height);
         System.out.println("Vücut Kitle İndeksiniz : " + BodyWeightIndex);
-
-
-
-
     }
 }
