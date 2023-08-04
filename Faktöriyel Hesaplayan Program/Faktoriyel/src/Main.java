@@ -35,6 +35,6 @@ public class Main {
 
         System.out.println("C(n,r)=n!/(r!*(n-r)!): " +"İşlemin Sonucu: " + result);
 
-   
+
     }
 }
