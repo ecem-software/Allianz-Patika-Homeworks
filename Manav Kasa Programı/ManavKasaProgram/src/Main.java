@@ -25,6 +25,6 @@ public class Main {
 
         Total=(a*Armut)+(e*Elma)+(d*Domates)+(m*Muz)+(p*Patlıcan);
         System.out.println("Toplam manava ödenecek tutar :" + Total +"TL");
-        
+
     }
 }
