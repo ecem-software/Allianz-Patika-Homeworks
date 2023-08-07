@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee3175e-c4ce-4f58-a4e0-7bb607e0152a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="aee3175e-c4ce-4f58-a4e0-7bb607e0152a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691380943683</updated>
-      <workItem from="1691380944725" duration="1723000" />
+      <workItem from="1691380944725" duration="1745000" />
     </task>
     <servers />
   </component>
