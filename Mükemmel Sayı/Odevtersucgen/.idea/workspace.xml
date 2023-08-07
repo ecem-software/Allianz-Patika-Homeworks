@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aee3175e-c4ce-4f58-a4e0-7bb607e0152a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MukemmelSayi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MukemmelSayi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/UsluSayi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Odev ucak bileti/flyTicket/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Odev ucak bileti/flyTicket/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

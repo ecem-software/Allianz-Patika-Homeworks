@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="459b948d-99d2-464a-8387-f63ebcf27896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Odev ucak bileti/flyTicket/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Odev ucak bileti/flyTicket/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="27d71ac1-b1e1-4b5e-bcff-58663a2b2243" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,32 +13,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2Td2RL34UUOzKJkTR65HLPQmeMI" />
+  <component name="ProjectId" id="2TdqhZzBNxKRAjLGO3QQamcPXy2" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/Documents/GitHub/Allianz-Patika-Homeworks/Mükemmel Sayı/MukemmelSayi/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/Documents/GitHub/Allianz-Patika-Homeworks/RecursiveMetotlar ÜslüSayı/DeseneGoreMethod/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="459b948d-99d2-464a-8387-f63ebcf27896" name="Changes" comment="" />
-      <created>1691358629026</created>
+      <changelist id="27d71ac1-b1e1-4b5e-bcff-58663a2b2243" name="Changes" comment="" />
+      <created>1691383473333</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1691358629026</updated>
-      <workItem from="1691358630127" duration="2163000" />
+      <updated>1691383473333</updated>
+      <workItem from="1691383474383" duration="912000" />
     </task>
     <servers />
   </component>
