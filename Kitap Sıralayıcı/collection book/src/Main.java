@@ -1,17 +1,23 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+import com.sun.source.tree.Tree;
+
+import java.util.TreeSet;
+
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Enter with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        TreeSet<Book> book = new TreeSet<>();
+        book.add(new Book("Dance with the stars", 568, "Vegas black",
+                "01.10.2000"));
+        book.add(new Book("lorem with the stars", 354, "Vegas black",
+                "01.10.2000"));
+        book.add(new Book("param with the stars", 11, "Vegas black",
+                "01.10.2000"));
+        book.add(new Book("MUNDance with the stars", 1345, "Vegas black",
+                "01.10.2000"));
+        book.add(new Book("yordle with the stars", 200, "Vegas black",
+                "01.10.2000"));
 
-        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
-
-            // Press Shift+F9 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Ctrl+F8.
-            System.out.println("i = " + i);
+        for(Book b : book) {
+            System.out.println(b.getName() + ", " + b.getTotalPage());
         }
     }
 }
