@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 public class Main {
     static boolean isFind(int[] arr, int value) {
         for (int i : arr) {
@@ -16,18 +17,18 @@ public class Main {
 
         for (int i = 0; i < list.length; i++) {
             for (int j = 0; j < list.length; j++) {
-                if((i !=j) && (list[i]== list[j])){
-                if (!isFind(duplicate, list[i])) {
-                    duplicate[startindex++] = list[i];
+                if ((i != j) && (list[i] == list[j]) && list[i] % 2 == 0) {
+                    if (!isFind(duplicate, list[i])) {
+                        duplicate[startindex++] = list[i];
+                    }
+                    break;
+
                 }
-                break;
 
             }
 
         }
-
+        System.out.println(Arrays.toString(duplicate));
     }
-     System.out.println(Arrays.toString(duplicate));
-}
 
 }
